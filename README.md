@@ -1,0 +1,4 @@
+# 通过OpenTelemetry上报Android应用数据
+
+- AndroidJavaDemo: 将OpenTelemetry集成到使用Java编写的Android项目
+- AndroidKotlinDemo: 将OpenTelemetry集成到使用Kotlin编写的Android项目
